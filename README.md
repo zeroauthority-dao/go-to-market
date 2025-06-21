@@ -1,5 +1,3 @@
-![solutions   connect wallet zero authority](https://github.com/user-attachments/assets/bac0af4b-f3db-4884-96fb-fd4af9092ce5)
-
 **Executive Summary: 
 Zero Authority DAO Go-To-Market Strategy**
 
